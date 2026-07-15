@@ -7,6 +7,7 @@ Nexlabs is linked with EvenDep, and EvenAPI, you can generate frontend website i
 
 ## Contribution
 Q/ Can we get involved with EvenWorks to develop the platforms?
+
 A/ Right now we are not offering that, the platforms are under developing and it is managed by the founder. 
 But, Stay Tuned! we might make one of our platforms open-source, or offer hiring under EvenWorks Ltd. to develop the platforms.
 
