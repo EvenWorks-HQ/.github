@@ -1,19 +1,11 @@
 ## What's EvenWorks?
-EvenWorks is tech company to provide software solutions over the world, it was founded in 2025-02-24.
-
-It is focused on making backend managed, and frontend useable.
-
-We are working on providing EvenAPI platform along with EvenDep for deploying databases or websites.
-although, we have Nexlabs, to offer AI Assisted Frontend Developing and upgrading it, to be more secure and trustworthy. 
-
-Nexlabs is linked with EvenDep, and EvenAPI, you can generate frontend website in Nex, deploy it on EvenDep, and create what you want from backend endpoints in EvenAPI.
-
+EvenWorks LLC, is tech-based software company, building multiple platforms for global. it was founded in 2025-02-24.
 
 ## Contribution
 Q/ Can we get involved with EvenWorks to develop the platforms?
 
 A/ Right now we are not offering that, the platforms are under developing and it is managed by the founder. 
-But, Stay Tuned! we might make one of our platforms open-source, or offer hiring under EvenWorks Ltd. to develop the platforms.
+But, Stay Tuned! we might make one of our platforms open-source, or offer hiring under EvenWorks LLC. to develop the platforms.
 
 
 ## Where can you find EvenWorks?
